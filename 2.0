@@ -1,0 +1,13 @@
+Collecting pydantic
+  Downloading pydantic-2.10.2-py3-none-any.whl.metadata (170 kB)
+Collecting annotated-types>=0.6.0 (from pydantic)
+  Using cached annotated_types-0.7.0-py3-none-any.whl.metadata (15 kB)
+Collecting pydantic-core==2.27.1 (from pydantic)
+  Downloading pydantic_core-2.27.1-cp312-none-win_amd64.whl.metadata (6.7 kB)
+Requirement already satisfied: typing-extensions>=4.12.2 in c:\users\dell\appdata\local\programs\python\python312\lib\site-packages (from pydantic) (4.12.2)
+Downloading pydantic-2.10.2-py3-none-any.whl (456 kB)
+Downloading pydantic_core-2.27.1-cp312-none-win_amd64.whl (2.0 MB)
+   ---------------------------------------- 2.0/2.0 MB 7.9 MB/s eta 0:00:00
+Using cached annotated_types-0.7.0-py3-none-any.whl (13 kB)
+Installing collected packages: pydantic-core, annotated-types, pydantic
+Successfully installed annotated-types-0.7.0 pydantic-2.10.2 pydantic-core-2.27.1
